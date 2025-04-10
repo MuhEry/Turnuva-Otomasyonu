@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35319.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "otomasyon", "otomasyon\otomasyon.csproj", "{5AC2DF56-1B77-483E-A2D6-8A33980E953B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupTurnuva", "Setup1\Setup1.vdproj", "{5E92DBB5-C01A-4036-83C8-4C74A7D4CBA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AC2DF56-1B77-483E-A2D6-8A33980E953B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC2DF56-1B77-483E-A2D6-8A33980E953B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC2DF56-1B77-483E-A2D6-8A33980E953B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC2DF56-1B77-483E-A2D6-8A33980E953B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E92DBB5-C01A-4036-83C8-4C74A7D4CBA3}.Debug|Any CPU.ActiveCfg = Debug
+		{5E92DBB5-C01A-4036-83C8-4C74A7D4CBA3}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798DEE72-41E0-44C4-9B3E-5C66FE8DA48A}
+	EndGlobalSection
+EndGlobal
